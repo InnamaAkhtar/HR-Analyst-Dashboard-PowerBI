@@ -47,4 +47,4 @@ The dashboard includes the following charts:
 
 **INNAMA AKHTAR**
 
-Connect with me on [GitHub](https://github.com/)
+Connect with me on [GitHub](https://github.com/InnamaAkhtar/InnamaAkhtar)
