@@ -40,16 +40,12 @@ The dashboard includes the following charts:
 
 ## 🖼️ Dashboard Preview
 
-![HR Analyst Dashboard](images/hr-analyst-dashboard.png)
+![HR Analyst Dashboard](https://github.com/InnamaAkhtar/HR-Analyst-Dashboard-PowerBI/blob/main/IMAGE.Png%20(2).png)
 
-## 📂 Project Files
-
-- `HR_Analyst_Dashboard.pbix` – Power BI dashboard file.
-- `images/hr-analyst-dashboard.png` – Dashboard screenshot.
 
 ## 👤 Author
 
-**Your Name**
+**INNAMA AKHTAR**
 
 Connect with me on [GitHub](https://github.com/)
 
